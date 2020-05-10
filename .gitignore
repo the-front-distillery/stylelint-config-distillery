@@ -1,0 +1,7 @@
+## Files
+*.map
+*.orig
+
+## Folders
+/.idea
+/node_modules
