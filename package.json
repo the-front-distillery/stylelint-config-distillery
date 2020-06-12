@@ -1,0 +1,35 @@
+{
+    "name": "@distillery/stylelint-config-distillery",
+    "version": "1.0.0",
+    "description": "StyleLint config for Distillery Style Guide.",
+    "main": "index.js",
+    "scripts": {},
+    "engines": {
+        "node": ">=10.0.0",
+        "npm": ">=6.0.0"
+    },
+    "devDependencies": {},
+    "dependencies": {
+        "stylelint": "^13.6.0",
+        "stylelint-config-standard": "^20.0.0"
+    },
+    "files": [
+        "index.js"
+    ],
+    "keywords": [
+        "stylelint",
+        "css",
+        "sass",
+        "distillery",
+        "front-end"
+    ],
+    "license": "MIT",
+    "homepage": "https://github.com/the-front-distillery/stylelint-config-distillery",
+    "bugs": {
+        "url": "https://github.com/the-front-distillery/stylelint-config-distillery/issues"
+    },
+    "repository": {
+        "type": "git",
+        "url": "git+https://github.com/the-front-distillery/stylelint-config-distillery.git"
+    }
+}
