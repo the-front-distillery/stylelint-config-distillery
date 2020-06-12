@@ -23,6 +23,7 @@
         "distillery",
         "front-end"
     ],
+    "author": "The Front Distillery Authors",
     "license": "MIT",
     "homepage": "https://github.com/the-front-distillery/stylelint-config-distillery",
     "bugs": {
