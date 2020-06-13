@@ -1,5 +1,9 @@
 # stylelint-config-distillery
 
+[![Version](https://flat.badgen.net/npm/v/@distillery/stylelint-config-distillery)](https://www.npmjs.com/package/@distillery/stylelint-config-distillery)
+[![Download](https://flat.badgen.net/npm/dt/@distillery/stylelint-config-distillery)](https://www.npmjs.com/package/@distillery/stylelint-config-distillery)
+[![License](https://flat.badgen.net/npm/license/@distillery/stylelint-config-distillery)](https://www.npmjs.com/package/@distillery/stylelint-config-distillery)
+
 StyleLint config for Distillery Style Guide.
 
 ## Getting Started
